@@ -1,4 +1,22 @@
 1. mappaszerkezet
+    ```
+    todo-app
+        |
+        |
+        +-backend
+        |
+        |         +-backend
+        |         |
+        +-docker--+-frontend
+        |         |
+        |         +-mysql
+        |
+        +-docs
+        |
+        |
+        |
+        +-frontend
+    ```
 2. git inicializálás
 - .gitignore
     ```
