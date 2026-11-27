@@ -5,11 +5,11 @@
         |
         +-backend
         |
-        |         +-backend
+        |         +-backend - Dockerfile
         |         |
-        +-docker--+-frontend
+        +-docker--+-frontend - Dockerfile
         |         |
-        |         +-mysql
+        |         +-mysql - init.sql
         |
         +-docs
         |

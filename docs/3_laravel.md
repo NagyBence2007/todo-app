@@ -27,3 +27,4 @@ Amiket a migráció hozott létre
 
 Fejlesztői szerver indítása
 `php artisan serve --host=0.0.0.0 --port=8000`
+- ez a parancs sokszor kerül majd kiadásra
